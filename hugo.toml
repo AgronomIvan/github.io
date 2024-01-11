@@ -1,0 +1,21 @@
+baseURL = 'https://example.org/'
+languageCode = 'ru'
+title = 'Kazakhgreen'
+theme = 'hugo-index'
+
+
+
+enableRobotsTXT = true
+
+[sitemap]
+ changeFreq= 'daily'
+ filename= 'sitemap.xml'
+ priority = '1'
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
+    startLevel = 2
+
+
