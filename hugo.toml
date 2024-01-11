@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://agronomivan.github.io/github.io/'
 languageCode = 'ru'
 title = 'Kazakhgreen'
 theme = 'hugo-index'
