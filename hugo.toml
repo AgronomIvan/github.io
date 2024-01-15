@@ -1,9 +1,7 @@
-baseURL = 'https://agronomivan.github.io/github.io/'
+baseURL = 'https://kazflora.online/'
 languageCode = 'ru'
-title = 'Kazakhgreen'
+title = 'Kazflora'
 theme = 'hugo-index'
-
-
 
 enableRobotsTXT = true
 
