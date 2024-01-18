@@ -5,7 +5,7 @@
 <meta name="robots" content='{{ cond (hugo.IsProduction) ("index, follow") ("noindex, nofollow" ) }}'>
 <meta name="description" content="{{ .Summary }}" />
 <meta name="generator" content="hugo-index">
-
+<meta name="google-site-verification" content="pt0_TuoUX_iy_cy4Cu8C1c4WND3-E3ssYcF_kFULj4w" />
 {{- $styles := (resources.Get "styles.css") | minify }}
 {{- $chromastyles := (resources.Get "chromastyles.css") | minify }}
 {{- $combo := (slice $styles $chromastyles) | resources.Concat "assets/stylesheet.css" }}
