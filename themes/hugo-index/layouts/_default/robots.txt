@@ -1,6 +1,8 @@
 User-agent: *
 Disallow:/tags/
 
+sitemap:https://kazflora.online/sitemap.xml
+
 User-agent: ChatGPT-User
 User-agent: GPTBot
 Disallow: /
